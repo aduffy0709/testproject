@@ -1,1 +1,2 @@
+I like turtles.
 Hello, this is the first file I've checked in with git. 
